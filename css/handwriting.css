@@ -1,0 +1,19 @@
+#canvas{
+	display: block;
+	margin: 0 auto; 
+}
+#clear{
+	position: absolute;
+	top: 500px;
+	left:1200px;
+	height: 130px;
+	line-height: 130px;
+	width: 150px;
+	font-size: 50px;
+	background-color:#fff;
+	box-shadow: 2px 2px 2px gray;
+	color: red;
+	 
+}
+ 
+ 
